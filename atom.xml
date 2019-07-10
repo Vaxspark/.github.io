@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-10T14:33:51.522Z</updated>
+  <updated>2019-07-10T14:54:15.348Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,13 @@
     <link href="http://yoursite.com/2019/07/10/%E5%8D%9A%E5%AE%A2%E7%A5%AD/"/>
     <id>http://yoursite.com/2019/07/10/博客祭/</id>
     <published>2019-07-10T07:36:41.675Z</published>
-    <updated>2019-07-10T14:33:51.522Z</updated>
+    <updated>2019-07-10T14:54:15.348Z</updated>
     
-    <content type="html"><![CDATA[<a class="btn" href="url" title="博客祭"><i class="fa fa-hand-o-right fa-fw"></i>博客祭</a><div class="note default">            <h3 id="博客祭"><a href="#博客祭" class="headerlink" title="博客祭"></a><strong>博客祭</strong></h3>          </div><a id="more"></a><p><strong>博客祭7.10</strong></p><h1 id="6-28"><a href="#6-28" class="headerlink" title="6.28"></a>6.28</h1><p>纵不败于他人，也终亡于时间。</p><h2 id="OI之路未必成功，但该有的形式还是要有。"><a href="#OI之路未必成功，但该有的形式还是要有。" class="headerlink" title="OI之路未必成功，但该有的形式还是要有。"></a>OI之路未必成功，但该有的形式还是要有。</h2><p>生活总要有些仪式感。</p>]]></content>
+    <content type="html"><![CDATA[<div class="note default">            <h3 id="博客祭"><a href="#博客祭" class="headerlink" title="博客祭"></a><strong>博客祭</strong></h3>          </div><a id="more"></a><p><strong>博客祭7.10</strong></p><h1 id="6-28"><a href="#6-28" class="headerlink" title="6.28"></a>6.28</h1><p>纵不败于他人，也终亡于时间。</p><h2 id="OI之路未必成功，但该有的形式还是要有。"><a href="#OI之路未必成功，但该有的形式还是要有。" class="headerlink" title="OI之路未必成功，但该有的形式还是要有。"></a>OI之路未必成功，但该有的形式还是要有。</h2><p>生活总要有些仪式感。</p>]]></content>
     
     <summary type="html">
     
-      &lt;a class=&quot;btn&quot; href=&quot;url&quot; title=&quot;博客祭&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-fw&quot;&gt;&lt;/i&gt;博客祭&lt;/a&gt;
-&lt;div class=&quot;note default&quot;&gt;
+      &lt;div class=&quot;note default&quot;&gt;
             &lt;h3 id=&quot;博客祭&quot;&gt;&lt;a href=&quot;#博客祭&quot; class=&quot;headerlink&quot; title=&quot;博客祭&quot;&gt;&lt;/a&gt;&lt;strong&gt;博客祭&lt;/strong&gt;&lt;/h3&gt;
           &lt;/div&gt;
     
